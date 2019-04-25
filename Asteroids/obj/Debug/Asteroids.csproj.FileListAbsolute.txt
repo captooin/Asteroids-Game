@@ -1,0 +1,18 @@
+C:\Users\goore\source\repos\Remizov\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\goore\source\repos\Remizov\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\goore\source\repos\Remizov\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\goore\source\repos\Remizov\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\goore\source\repos\Remizov\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\goore\source\repos\Remizov\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\goore\source\repos\Remizov\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\goore\source\repos\Remizov\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\goore\source\repos\Remizov\Asteroids\obj\Debug\Asteroids.pdb
+d:\Unity Projects\csharp2\Asteroids\bin\Debug\Asteroids.exe.config
+d:\Unity Projects\csharp2\Asteroids\bin\Debug\Asteroids.exe
+d:\Unity Projects\csharp2\Asteroids\bin\Debug\Asteroids.pdb
+d:\Unity Projects\csharp2\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+d:\Unity Projects\csharp2\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+d:\Unity Projects\csharp2\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+d:\Unity Projects\csharp2\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+d:\Unity Projects\csharp2\Asteroids\obj\Debug\Asteroids.exe
+d:\Unity Projects\csharp2\Asteroids\obj\Debug\Asteroids.pdb

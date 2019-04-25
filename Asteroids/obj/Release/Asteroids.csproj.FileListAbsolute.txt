@@ -1,0 +1,9 @@
+D:\Unity Projects\csharp2\Asteroids\bin\Release\Asteroids.exe.config
+D:\Unity Projects\csharp2\Asteroids\bin\Release\Asteroids.exe
+D:\Unity Projects\csharp2\Asteroids\bin\Release\Asteroids.pdb
+D:\Unity Projects\csharp2\Asteroids\obj\Release\Asteroids.csprojAssemblyReference.cache
+D:\Unity Projects\csharp2\Asteroids\obj\Release\Asteroids.Properties.Resources.resources
+D:\Unity Projects\csharp2\Asteroids\obj\Release\Asteroids.csproj.GenerateResource.cache
+D:\Unity Projects\csharp2\Asteroids\obj\Release\Asteroids.csproj.CoreCompileInputs.cache
+D:\Unity Projects\csharp2\Asteroids\obj\Release\Asteroids.exe
+D:\Unity Projects\csharp2\Asteroids\obj\Release\Asteroids.pdb
